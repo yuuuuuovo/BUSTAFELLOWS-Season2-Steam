@@ -1,4 +1,5 @@
 # BUSTAFELLOWS Season2 Steam版汉化补丁说明（英文原文/日文原文）
+## https://github.com/yuuuuuovo/BUSTAFELLOWS-Season2-Steam/releases/tag/v1.0.2
 
 ## 补丁安装
 
